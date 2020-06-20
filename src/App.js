@@ -5,7 +5,7 @@ import './App.css';
 function App(){
   return (
     <>
-    Hello WOrld!
+    <h1> Expense Tracker by Afaque Shah </h1>
     </>
   )
 }
