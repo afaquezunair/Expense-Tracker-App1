@@ -1,7 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-export const Header = ()=>{
-    return(
-        <h1>Expense Tracker by Afaque Zunair Shah </h1>
+export const Header = () => {
+    return (
+        <h2>
+            Expense Tracker by Adil Altaf
+        </h2>
     )
 }
